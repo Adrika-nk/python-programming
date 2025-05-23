@@ -1,0 +1,9 @@
+a=12.5
+b=1+2j
+c="adrika"
+d=19
+print(a,b,c,d)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
